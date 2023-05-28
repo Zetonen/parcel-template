@@ -88,7 +88,7 @@ Pages, в ветку `gh-pages`, каждый раз когда обновляе
 
 ## Как это работает
 
-[How it works](./assets/how-it-works.png)
+![How it works](./assets/how-it-works.png)
 
 1. После каждого пуша в ветку `main` GitHub-репозитория, запускается специальный
    скрипт (GitHub Action) из файла `.github/workflows/deploy.yml`.
